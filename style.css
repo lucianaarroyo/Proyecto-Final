@@ -1,0 +1,42 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#9decdd
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+}
+.titulo p{
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 40px;
+    color: #A67B5B;
+    font-weight: bold;
+  }
+.enlaces p{
+  font-family: 'Comic Sans MS', sans-serif;
+  font-size: 20px;
+  color: #212121;
+}
+.lista img{
+  height: 200px;
+  padding:50px
+}
+.lista li{
+  color: white;
+  font-size: 20px;
+  font-family: "Comic Sans MS";
+}
+.contenido img{
+  height: 200px;
+  padding:50px
+}
+.contenido p{
+  font-family: "Comic Sans MS";
+  font-size: 20px;
+  color: white;
+}
